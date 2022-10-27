@@ -22,6 +22,6 @@
 ## Top Langs
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=westydev&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321"/>
-<img src="https://komarev.com/ghpvc/?username=KedelChavo&label=Ziyaretçi%2000Sayısı&color=da004e" alt="Ked" />
+<img src="https://komarev.com/ghpvc/?username=KedelChavo&label=Ziyaretçi%20000000000Sayısı&color=da004e" alt="Ked" />
 
 </div>
